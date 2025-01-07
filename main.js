@@ -42,7 +42,7 @@ printNgto(12,5)
 
 
 //CÂU 3
-function mounth(x){
+function mouth(x){
     if(x>12||x<1){
         return false
     }
@@ -51,7 +51,7 @@ function mounth(x){
     
     }
 
-console.log(mounth(12))
+console.log(mouth(12))
 // CÂU 4
 function longestWord(string) {
     var str = string.split(" ");
